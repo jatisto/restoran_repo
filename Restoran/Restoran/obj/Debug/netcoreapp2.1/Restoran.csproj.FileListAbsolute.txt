@@ -1,0 +1,42 @@
+C:\Users\evgen\RiderProjects\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.deps.json
+C:\Users\evgen\RiderProjects\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.json
+C:\Users\evgen\RiderProjects\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.dev.json
+C:\Users\evgen\RiderProjects\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\RiderProjects\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.pdb
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csprojAssemblyReference.cache
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cache
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cs
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfoInputs.cache
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfo.cs
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorTargetAssemblyInfo.cache
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\RiderProjects\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.pdb
+C:\Users\evgen\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.deps.json
+C:\Users\evgen\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.json
+C:\Users\evgen\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.dev.json
+C:\Users\evgen\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.pdb
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csprojAssemblyReference.cache
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cache
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cs
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfoInputs.cache
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfo.cs
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorTargetAssemblyInfo.cache
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.pdb
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csprojAssemblyReference.cache
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csproj.CoreCompileInputs.cache
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cache
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cs
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfoInputs.cache
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfo.cs
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.dll
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.pdb
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.deps.json
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.json
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.dev.json
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.dll
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.pdb
+D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorTargetAssemblyInfo.cache
