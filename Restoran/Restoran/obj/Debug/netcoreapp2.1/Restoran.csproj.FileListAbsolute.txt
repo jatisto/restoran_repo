@@ -40,3 +40,17 @@ D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\
 D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.dll
 D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.pdb
 D:\MailCloud\C#\Программа ItAttractor C#\ДЗ\Контрольная 6\csharp_group_3_test_#6_Abdyushev Eugeny\restoranapp\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorTargetAssemblyInfo.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.deps.json
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.json
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.runtimeconfig.dev.json
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\bin\Debug\netcoreapp2.1\Restoran.pdb
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csprojAssemblyReference.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.csproj.CoreCompileInputs.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorAssemblyInfo.cs
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfoInputs.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.AssemblyInfo.cs
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.RazorTargetAssemblyInfo.cache
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.dll
+C:\Users\evgen\Git_Folder\restoran_repo\Restoran\Restoran\obj\Debug\netcoreapp2.1\Restoran.pdb
